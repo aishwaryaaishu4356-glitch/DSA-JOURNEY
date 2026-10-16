@@ -1,3 +1,9 @@
+/*
+LeetCode Problem(1512): Number of Good Pairs
+Approach: Brute Force - Nested Loops
+Time Complexity:O(n^2)
+Space Complexity:O(1)
+*/
 #include<iostream>
 #include<vector>
 using namespace std;
